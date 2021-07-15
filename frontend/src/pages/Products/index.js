@@ -28,9 +28,8 @@ const useStyles = makeStyles((theme) => ({
     paddingBottom: theme.spacing(4),
      width: 'center',
     },
-  
-  
   paper:{
+    marginTop:10,
     padding: theme.spacing(2),
     display: 'flex',
     overflow: 'auto',
